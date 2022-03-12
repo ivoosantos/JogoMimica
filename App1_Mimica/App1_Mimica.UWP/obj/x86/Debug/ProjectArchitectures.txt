@@ -1,0 +1,1 @@
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\App1_Mimica.UWP.csproj;x86

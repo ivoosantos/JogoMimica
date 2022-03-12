@@ -1,0 +1,601 @@
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App.xbf
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\MainPage.xbf
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.xr.xml
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.exe
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.pdb
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\resources.pri
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\AppxManifest.xml
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Core\App1_Mimica.UWP.exe
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Core\AppxManifest.xml
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.build.appxrecipe
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\clrcompression.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.AppContext.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Buffers.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Collections.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.Composition.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.Primitives.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Configuration.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Console.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Core.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Data.Common.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Data.SqlClient.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Data.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.Process.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Drawing.Primitives.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Drawing.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Globalization.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.Compression.FileSystem.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.Compression.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.Pipes.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.Ports.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Linq.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Http.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.HttpListener.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Mail.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.NameResolution.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Ping.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Primitives.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Requests.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Security.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.ServicePoint.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Sockets.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.WebClient.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.WebProxy.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.WebSockets.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Numerics.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ObjectModel.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Private.Uri.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Private.Xml.Linq.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Private.Xml.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Context.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Resources.Reader.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Resources.Writer.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.AccessControl.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Claims.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Principal.Windows.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Principal.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.SecureString.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceProcess.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Text.Encoding.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Thread.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.ThreadPool.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Timer.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Transactions.Local.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Transactions.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ValueTuple.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Web.HttpUtility.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Web.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Windows.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.Linq.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.XPath.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\WindowsBase.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\mscorlib.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\netstandard.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.dll
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.pdb
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App1_Mimica.UWP.csprojAssemblyReference.cache
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App.g.i.cs
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App.g.cs
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\MainPage.g.i.cs
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\MainPage.g.cs
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App.xaml
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\MainPage.xaml
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App.xbf
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\MainPage.xbf
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App1_Mimica.UWP.csproj.CoreCompileInputs.cache
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\XamlC.stamp
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App1_Mimica.UWP.csproj.CopyComplete
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App1_Mimica.UWP.exe
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App1_Mimica.UWP.pdb
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\ResourceHandlingTask.state
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Data.SqlClient.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Diagnostics.FileVersionInfo.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Process.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TextWriterTraceListener.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TraceSource.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Drawing.Primitives.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.DriveInfo.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.Watcher.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.MemoryMappedFiles.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.Pipes.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.Ports.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.HttpListener.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Mail.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Ping.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Security.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.ServicePoint.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.WebClient.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Private.Xml.Linq.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Private.Xml.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Reflection.TypeExtensions.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Resources.Writer.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.WindowsRuntime.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.AccessControl.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Csp.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Principal.Windows.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Threading.Thread.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Transactions.Local.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ValueTuple.SR.resw
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\priconfig.xml
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\priconfig.xml.intermediate
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\filtered.layout.resfiles
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\excluded.layout.resfiles
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\resources.resfiles
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\resources.resfiles.intermediate
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\pri.resfiles
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\pri.resfiles.intermediate
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\qualifiers.txt
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+F:\Xamarin Forms\Seção 12\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App.xbf
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\MainPage.xbf
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.xr.xml
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.exe
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.pdb
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\resources.pri
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\AppxManifest.xml
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Core\App1_Mimica.UWP.exe
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.build.appxrecipe
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\clrcompression.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.AppContext.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Buffers.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Collections.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.Composition.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ComponentModel.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Configuration.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Console.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Core.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Data.Common.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Data.SqlClient.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Data.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.Process.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Drawing.Primitives.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Drawing.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Globalization.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.Compression.FileSystem.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.Compression.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.Pipes.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.Ports.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.IO.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Linq.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Http.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.HttpListener.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Mail.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.NameResolution.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Ping.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Primitives.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Requests.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Security.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.ServicePoint.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.Sockets.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.WebClient.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.WebProxy.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.WebSockets.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Net.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Numerics.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ObjectModel.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Private.Uri.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Private.Xml.Linq.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Private.Xml.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Context.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Reflection.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Resources.Reader.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Resources.Writer.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Runtime.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.AccessControl.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Claims.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Principal.Windows.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.Principal.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.SecureString.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Security.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceModel.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ServiceProcess.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Text.Encoding.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Thread.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.ThreadPool.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.Timer.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Threading.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Transactions.Local.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Transactions.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.ValueTuple.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Web.HttpUtility.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Web.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Windows.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.Linq.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.XPath.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.Xml.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\System.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\WindowsBase.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\mscorlib.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\netstandard.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.dll
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.pdb
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App1_Mimica.UWP.csprojAssemblyReference.cache
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App.g.i.cs
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App.g.cs
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\MainPage.g.cs
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App.xaml
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\MainPage.xaml
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App.xbf
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\MainPage.xbf
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App1_Mimica.UWP.csproj.CoreCompileInputs.cache
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\XamlC.stamp
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App1_Mimica.UWP.csproj.CopyComplete
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App1_Mimica.UWP.exe
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\App1_Mimica.UWP.pdb
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Data.SqlClient.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Diagnostics.FileVersionInfo.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Process.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TextWriterTraceListener.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TraceSource.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Drawing.Primitives.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.DriveInfo.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.Watcher.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.MemoryMappedFiles.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.Pipes.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.IO.Ports.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.HttpListener.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Mail.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Ping.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Security.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.ServicePoint.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.WebClient.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Private.Xml.Linq.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Private.Xml.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Reflection.TypeExtensions.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Resources.Writer.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.WindowsRuntime.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.AccessControl.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Csp.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Security.Principal.Windows.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Threading.Thread.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.Transactions.Local.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\FxResources.System.ValueTuple.SR.resw
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\priconfig.xml
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\filtered.layout.resfiles
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\excluded.layout.resfiles
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\resources.resfiles
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\pri.resfiles
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\qualifiers.txt
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\GitXamarin\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\ProjectArchitectures.txt
